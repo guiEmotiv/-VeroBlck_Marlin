@@ -15,11 +15,10 @@ Hardware [Arduino Mega 2560](https://www.arduino.cc/en/Main/arduinoBoardMega2560
 - Stepper Motor, Servo Motor and End Stop working...
 - AutoLeveling working...
 
-### Aditional features
+### Aditional Reference
 
 - Support Generator [STL](https://www.nanodlp.com/forum/viewtopic.php?id=419)
 
 - New Profile
 
 Enjoy!!
-
